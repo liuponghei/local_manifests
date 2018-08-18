@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!--Device tree-->
+  <project name="LineageOS/android_device_google_sailfish" path="device/google/sailfish" remote="github" revision="lineage-15.1"/>
+  <project name="LineageOS/android_device_google_marlin" path="device/google/marlin" remote="github" revision="lineage-15.1"/>
+  <!--Kernel-->
+  <project name="LineageOS/android_kernel_google_marlin" path="kernel/google/marlin" remote="github" revision="lineage-15.1"/>
+</manifest>
