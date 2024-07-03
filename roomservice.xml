@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!--Device tree-->
-  <project name="LineageOS/android_device_google_sailfish" path="device/google/sailfish" remote="github" revision="lineage-15.1"/>
-  <project name="LineageOS/android_device_google_marlin" path="device/google/marlin" remote="github" revision="lineage-15.1"/>
+   <project name="asus/ASUS_AI2205" path="device/asus/ASUS_AI2205" remote="gitlab" revision="qssi-user-14-UKQ1.230917.001-34.1010.0820.70-0-release-keys"/>
   <!--Kernel-->
-  <project name="LineageOS/android_kernel_google_marlin" path="kernel/google/marlin" remote="github" revision="lineage-15.1"/>
+  <project name="kernel/prebuilts/5.15/arm64" path="kernel/prebuilts/5.15/arm64" remote="github" revision="refs/heads/lineage-21.0"/>
 </manifest>
